@@ -25,17 +25,17 @@
     "youtube-finder": "^1.0.0"
   },
   "peerDependencies": {
-    "react": "0.14.x",
-    "react-dom": "0.14.8"
+    "react": "^15.3.x",
+    "react-dom": "^15.3.x"
   },
   "devDependencies": {
     "nwb": "0.7.x",
     "nwb-sass": "^0.5.0",
-    "react": "0.14.x",
-    "react-dom": "0.14.x",
+    "react": "^15.3.x",
+    "react-dom": "^15.3.x",
     "react-embed-code": "^0.1.0",
-    "react-tap-event-plugin": "^0.2.2",
-    "material-ui": "0.14.4"
+    "react-tap-event-plugin": "^1.0.0",
+    "material-ui": "^0.15.4"
   },
   "author": "",
   "homepage": "",
